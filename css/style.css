@@ -245,3 +245,9 @@ section, footer {
 a.navbar-brand {
   padding: 0;
 }
+
+@media (min-width: 768px) {
+  .right {
+    float: right !important;
+  }
+}
